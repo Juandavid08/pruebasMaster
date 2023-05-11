@@ -15,5 +15,3 @@ function f(x, y, z){
     let c = Math.sin(b);
     return c;
 }
-
-f(4, 6, 8);
