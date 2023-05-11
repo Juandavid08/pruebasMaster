@@ -1,3 +1,8 @@
+/* 
+Crea una aplicación Node.js que consuma la API de GitHub y muestre los 10 repositorios
+más populares del usuario "google". 
+*/
+
 const axios = require('axios');
 
 const username = 'google';

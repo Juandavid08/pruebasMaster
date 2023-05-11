@@ -12,7 +12,5 @@ function obtenerImpares(numero) {
             arrayImpares.push(item);
         }
     }
-
     return arrayImpares;
 }
-
