@@ -14,3 +14,6 @@ function obtenerImpares(numero) {
     }
     return arrayImpares;
 }
+
+var resultado = obtenerImpares(50);
+console.log(resultado);
